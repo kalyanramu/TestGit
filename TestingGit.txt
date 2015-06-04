@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Revision at 4:44 --- Adding Modifications to master
+=======
+Revision at 4:44
+
+Making changes from branch1
+
+make more changes to branch2
+>>>>>>> Dev1
